@@ -16,4 +16,4 @@ This repository will be used for Revision Control for all master Documentationn 
 
 2. A Template Branch will exist as well for maintinence of the various AOO templates used to produce the documents.
 
-Apache and OpenOfice are 
+Apache and OpenOffice are registered trademarks or trademarks of the Apache Software Foundation in the United States and/or other countries.
