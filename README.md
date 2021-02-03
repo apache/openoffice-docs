@@ -4,7 +4,7 @@
 
 ### Purpose
 
-This repository will be used for Revision Control for all master Documentation files for Apache® OpenOffice®.
+This repository will be used for Revision Control for all master Documentation files for Apache OpenOffice®.
 
 ### Structure
 
