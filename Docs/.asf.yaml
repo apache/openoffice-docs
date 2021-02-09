@@ -1,0 +1,7 @@
+github:
+  features:
+    projects: true
+ 
+github:
+ghp_branch: Main
+ghp_path: /docs
