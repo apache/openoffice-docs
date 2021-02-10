@@ -1,8 +1,4 @@
-#Configure .asf.yaml 
-github:
-ghp_branch: Main
-ghp_path: /docs
- # Enable issue management
-    issues: true
-    # Enable projects for project management boards
-    projects: true
+# Enable issue management
+  issues: true
+# Enable projects for project management boards
+  projects: true
