@@ -4,7 +4,7 @@
 
 ### Purpose
 
-This repository will be used for Revision Control for all master Documentationn files for Apache OpenOffice (AOO). Documentation will be written primarily using Writer, the Word processing component of AOO, as well as other components as needed.
+This repository will be used for Revision Control for all master Documentation files for Apache OpenOffice (AOO). Documentation will be written primarily using Writer, the word processing component of AOO, as well as other components as needed.
 
 ### Structure
 
