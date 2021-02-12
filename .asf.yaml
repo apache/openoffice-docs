@@ -8,5 +8,5 @@ github:
 notifications:
   commits:             commits@openoffice.apache.org
   issues:              docs@openoffice.apache.org
-  pullrequests         docs@openoffice.apache.org
+  pullrequests:        docs@openoffice.apache.org
   
