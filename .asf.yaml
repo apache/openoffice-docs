@@ -7,6 +7,4 @@ github:
 # Set up mailing list notifications
 notifications:
   commits:             commits@openoffice.apache.org
-  issues:              doc@openoffice.apache.org
-  pullrequests:        doc@openoffice.apache.org
   
