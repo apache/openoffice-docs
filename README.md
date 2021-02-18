@@ -1,10 +1,10 @@
 # Apache OpenOffice Documentation Project
 
-## Repository for Apache OpenOffice Documentation
+## Branch for  Miscellaneous Documentation
 
 ### Purpose
 
-This repository will be used for Revision Control for all master Documentation files for Apache OpenOffice (AOO). Documentation will be written primarily using Writer, the word processing component of AOO, as well as other components as needed.
+This repository will be used for Revision Control all  Templat files for Apache OpenOffice (AOO). These are ODT templates for Writer used to maintain consistency of all documents written by the AOO Documentatation Team
 
 ### Structure
 
