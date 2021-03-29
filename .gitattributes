@@ -1,0 +1,25 @@
+# .gitattributes  0.0.1             UTF-8                        5:08 PM 3/22/2021
+#
+#                GIT ATTRIBUTES FOR THE openoffice-docs GIT REPOSITORY
+
+# Denote all files that are truly binary and must not be scanned for line-end.
+# Some of these might also be .gitignored.  Better safe than sorry.
+
+*.bmp binary
+*.gif binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.suo binary
+*.zip binary
+
+*.odt binary
+*.ott binary
+*.ods binary
+*.ots binary
+*.odp binary
+*.otp binary
+*.odg binary
+*.otg binary
+*.odm binary
+*.odb binary
