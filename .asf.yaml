@@ -6,7 +6,7 @@ github:
     projects: true
 # Set up mailing list notifications
 notifications:
-  commits:             doc@openoffice.apache.org
+  commits:             commits@openoffice.apache.org
   issues:              doc@openoffice.apache.org
   pullrequests:        doc@openoffice.apache.org
   
