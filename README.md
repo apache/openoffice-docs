@@ -8,12 +8,7 @@ This repository will be used for Revision Control for all master Documentation f
 
 ### Structure
 
-1. Each version of the documentation will have its own branch named for the Guide that it holds as well as one for Miscellaneous Documents and Templates.
-    
-   - Each branch will have two folders named  Review and Published
-     - Review will be used for the editing process before a document is accepted
-	 - Published will be used to contain the Published versions for that branch
-     - If Guides are translated a language folder will be added for each language translated.
+Main Will Have a folder for each guide and will always contain the puiblished guide as well as the chapters that make it up. There will also be a branch for each guide that will be used for development of the next revision of the Guide.
 
 
 Apache and OpenOffice are registered trademarks or trademarks of the Apache Software Foundation in the United States and/or other countries.
