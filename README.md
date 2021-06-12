@@ -8,7 +8,7 @@ This repository will be used for Revision Control for all master Documentation f
 
 ### Structure
 
-Main Will Have a folder for each guide and will always contain the puiblished guide as well as the chapters that make it up. There will also be a branch for each guide that will be used for development of the next revision of the Guide.
+Main Will Have a folder for each guide and will always contain the published guide as well as the chapters that make it up. There will also be a branch for each guide that will be used for development of the next revision of the Guide.
 
 
 Apache and OpenOffice are registered trademarks or trademarks of the Apache Software Foundation in the United States and/or other countries.
