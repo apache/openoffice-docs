@@ -2,5 +2,23 @@
 #
 #                GIT ATTRIBUTES FOR THE openoffice-docs GIT REPOSITORY
 
-# There are currenly no files to be ignored
-# This file is here in case it is needed in future
+# These are Binary files and should always be ignored
+
+*.bmp binary
+*.gif binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.suo binary
+*.zip binary
+
+*.odt binary
+*.ott binary
+*.ods binary
+*.ots binary
+*.odp binary
+*.otp binary
+*.odg binary
+*.otg binary
+*.odm binary
+*.odb binary
