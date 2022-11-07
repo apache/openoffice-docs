@@ -1,0 +1,28 @@
+# Corrections from Jean.
+
+## Formatting
+
+1) Page 3, near the top, "What You See May Be Different" should be a Heading 1. AOO41GS1.odt (Preface).
+
+2) Page 63, There appears to be an extra table row below the Tip, causing an extra border to appear. AOO41GS4.odt (Chapter 3).
+
+3) Page 124, There is a blank table row at the top of the page. AOO41SG6.odt (Chapter 5).
+
+4) Page 154, Figure 136 falls into the bottom footer/margin, probably caused by an extra-large space above the heading "Rulers". This space appears to be due to the frame enclosing Figure 134. AOO41GS7. odt (Chapter 6).
+
+5) Page 178, blank page, should be removed. AOO41GS7(Chapter6).
+
+6) Page 181, Extra blank paragraph at top of page, pushing the heading down. Remove blank paragraph. AOO41GS8.odt (Chapter 7).
+
+7) Page 186: step 1), "Error: Reference source not found". AOO41GS8.odt (Chapter 7).
+
+8) Page 187, page break leaving large space at bottom for no apparent reason. AOO41GS8.odt (Chapter 7).
+
+9)  Page 188, Figure 164 is too far off to the right, probably not anchored correctly. AOO41GS8.odt (Chapter 7).
+
+10) Page 210, Figure 187 is escaping off the top of the page. Probably not anchored correctly. AOO41GS8.odt (Chapter 7).
+
+ Page 220, Too much space above heading "Creating Reports". AOO41GS8.odt (Chapter 7).
+
+## Incorrect x-refs: (I have no idea how these got all goofed up). There probably are more.
+
