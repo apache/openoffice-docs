@@ -4,6 +4,7 @@
 
 ### Purpose
 
-This branch will be used for Revision Control for all master Documentation files Miscelaneous documents written by the team that do not fit any of the pranches.
+This branch will be used for Revision Control for all master Documentation files Miscelaneous documents written by the team that do not fit any of the branches.
 
 Apache and OpenOffice are registered trademarks or trademarks of the Apache Software Foundation in the United States and/or other countries.
+
